@@ -78,7 +78,7 @@
       </viewers>
     </class>
     <property>
-      <viewers>XWiki.XWikiAllGroup</viewers>
+      <viewers/>
     </property>
   </object>
   <object>
