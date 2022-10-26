@@ -28,7 +28,7 @@
     <version>13.10</version>
   </parent>
   <artifactId>application-environment-switcher</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>Environment Switcher Application</name>
   <packaging>xar</packaging>
   <description>Allow users to switch from a wiki page to the same exact page in another environment, for example switching from staging environment to production.</description>
@@ -47,7 +47,7 @@
    <connection>scm:git:git://github.com/xwiki-contrib/application-environment-switcher.git</connection>
    <developerConnection>scm:git:git@github.com:xwiki-contrib/application-environment-switcher.git</developerConnection>
    <url>https://github.com/xwiki-contrib/application-environment-switcher</url>
-    <tag>HEAD</tag>
+    <tag>application-environment-switcher-1.0.1</tag>
   </scm>
   <build>
     <extensions>
